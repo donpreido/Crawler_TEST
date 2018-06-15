@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 
 namespace Web_Crawler
 {
@@ -6,7 +7,8 @@ namespace Web_Crawler
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Debug.WriteLine("Hello World!");
+            //Naujam commitui
         }
     }
 }
